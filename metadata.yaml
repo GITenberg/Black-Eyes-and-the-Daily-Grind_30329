@@ -1,0 +1,38 @@
+_repo: Black-Eyes-and-the-Daily-Grind_30329
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Ridgway, Jason
+    - Wilder, Stephen
+    - Thames, C. H.
+    - Lesser, Milton
+    - Chase, Adam
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: During a safari on Venus, a well-to-do couple happen to cross paths with
+  a tiny bundle of fur with amazing powers of persuasion. A few weeks later, they
+  return to Earth with their fuzzy ball of fur -- which they have christened with
+  the sobriquet ""Black Eyes"" -- in tow. Will their new pet adapt to life among humans?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: Black Eyes and the Daily Grind
+url: http://www.gutenberg.org/ebooks/30329
